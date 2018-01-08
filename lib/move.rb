@@ -13,4 +13,5 @@ move.to_i - 1
 end
 
 def move(board_array,index,player="X")
+  return 
 end
